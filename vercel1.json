@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "alist.838383.xyz/(.*)","dest": "https://cfsaas.4567.eu.org/$1"}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "ali1.838383.xyz/(.*)","dest": "https://cfsaas.4567.eu.org/$1"},
+      {"src": "ali2.838383.xyz/(.*)","dest": "https://free263.github.io/$1"},
+      {"src": "vercel-aliyun.vercel.app/(.*)","dest": "https://free663.github.io/$1"}
+  ]
+}
