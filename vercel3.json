@@ -1,6 +1,0 @@
-{
-  "version": 2,
-  "routes": [
-      {"src": "ali1.838383.xyz/(.*)","dest": "https://free663.github.io/$1"}
-  ]
-}
