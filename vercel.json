@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "https://cfsaas.4567.eu.org/$1"}
+  ]
+}
