@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://cfsaas.4567.eu.org/$1"}
+      {"src": "/(.*)","dest": "https://free263.github.io/$1"}
   ]
 }
